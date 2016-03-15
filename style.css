@@ -1,0 +1,63 @@
+body {
+	margin: 0;
+	position: relative;
+	background-image: url("photos/logoBack.jpg");
+}
+
+#Title {
+	text-align: center;
+}
+
+#button {
+	width: 80px;
+	height: 35px;
+	background-color: blue;
+	border-radius: 20px;
+	display: inline-block;
+	margin-top: 5px;
+	text-align: center;
+	line-height: 35px;
+	color: white;
+}
+
+#toDoText {
+	display: inline-block;
+}
+
+#formDiv {
+	width: 100%;
+	top: 0;
+	display: block;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+#formDiv-inner {
+	text-align: center;
+}
+
+.listItem {
+	text-align: center;
+	font-weight: bold;
+}
+
+.List {
+	width: 30%;
+	margin: 0 auto;
+	display: block;
+	text-align: center;
+	background-color: gray;
+	opacity: 0.7;
+	border-radius: 30px;
+	padding:20px ;
+}
+
+.remove {
+	font-size: 12px;
+	background-color: red;
+	border-radius: 10px;
+	display: inline-block;
+	text-align: center;
+	color: white;
+	padding: 2px;
+}
