@@ -62,3 +62,15 @@ body {
 	color: white;
 	padding: 2px;
 }
+
+.diff {
+	display: inline-block;
+	width: 10px;
+	height: 15px;
+	background-color: white;
+	margin-right: 3px;
+}
+
+.inb {
+	display: inline-block;
+}
